@@ -1,4 +1,4 @@
-# CODTECH-Task2
+Task2
 
 ## Social Media:
 
